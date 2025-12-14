@@ -1,0 +1,21 @@
+# IDE / config locale
+.vscode/
+
+# Logs et images de debug / résultats
+logs/
+debug_imgs/
+results/
+pictures/
+
+# Grosse dataset COCO
+scripts/utils/val2014/
+
+# Checkpoints / modèles / gros binaires éventuels
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.zip
+*.tar
+*.tar.gz
+
